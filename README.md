@@ -1,16 +1,16 @@
-### Hi there 👋
+![logo](https://cdn.discordapp.com/attachments/988332902456631359/1011220956167012473/BannerREADME.png)
 
-<!--
-**KomradeFMX/KomradeFMX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+illo que puedes poner efectos aquí :D
 
-Here are some ideas to get you started:
+Me gusta programar y trastear para evadirme de todo, sobretodo me gusta trastear con Discord y Minecraft.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Proyectos:
+```
+Kaskade MC        90% [━━━━━╴]
+Zenith (Js)       100%[━━━━━━]
+Kao Bot (Python)  100%[━━━━━━]
+Skyla MC          10% [━―――――]
+```
+No soy una profesional ni mucho menos pero programar es lo que mejor me hace sentirme, y más si sé que eso puede ayudar a alguien c:
+
+![img](https://i.redd.it/szivf1nbnk981.gif)
