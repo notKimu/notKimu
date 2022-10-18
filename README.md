@@ -12,7 +12,7 @@ Kao Bot (Python)  100%[━━━━━━]
 Skyla MC          20% [━━――――]
 ```
 <p align="center">
-  <img width="857" height="93" src="https://media.discordapp.net/attachments/1031884020629381251/1031894470200926290/barraGit.png?width=857&height=93">
+  <img src="https://media.discordapp.net/attachments/1031884020629381251/1031894470200926290/barraGit.png">
 </p>
 No soy una profesional ni mucho menos pero programar es lo que mejor me hace sentirme, y más si sé que eso puede ayudar a alguien c:
 
