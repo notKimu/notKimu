@@ -1,4 +1,6 @@
-![logo](https://cdn.discordapp.com/attachments/988332902456631359/1011220956167012473/BannerREADME.png)
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1031884020629381251/1032225427676213359/logoGit.png">
+</p>
 
 illo que puedes poner efectos aquí :D
 
@@ -18,6 +20,5 @@ No soy una profesional ni mucho menos pero programar es lo que mejor me hace sen
 
 - - -
 <p align="center">
-
   <img src="https://media.tenor.com/0uqeJnK-4OYAAAAC/ai-ohto-anime.gif">
 </p>
