@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1031884020629381251/1032225427676213359/logoGit.png">
+  <img src="https://cdn.discordapp.com/attachments/1031884020629381251/1032570654970630174/logoGitPH2.png">
 </p>
 
 illo que puedes poner efectos aquí :D
