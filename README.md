@@ -10,7 +10,7 @@ Proyectos:
 ```py
 Zenith (Js)       100%[━━━━━━]
 Kao Bot (Python)  100%[━━━━━━]
-Kazumi            30% [━━――――]
+Kazumi (Js)       30% [━━――――]
 ```
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1031884020629381251/1032179021192106054/barraGit.png">
