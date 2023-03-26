@@ -8,9 +8,9 @@ Me gusta programar y trastear para evadirme de todo, sobretodo me gusta trastear
 
 Proyectos:
 ```py
-Zenith (Js)       100%[━━━━━━]
-Kao Bot (Python)  100%[━━━━━━]
-Kazumi (Js)       30% [━━――――]
+Kimu (Js)         10 %[━―――――]
+Kaskade (MC)      0%  [――――――]
+Kimu ENV          0%  [――――――]
 ```
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1031884020629381251/1032179021192106054/barraGit.png">
