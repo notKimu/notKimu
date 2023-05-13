@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1030104448606941337/1106759591624200263/KimuGit.png">
+<img src="https://cdn.discordapp.com/attachments/1030104448606941337/1106759591624200263/KimuGit.png" width="100%">
 
 illo que puedes poner efectos aquí :D
 
