@@ -2,13 +2,13 @@
 
 illo que puedes poner efectos aquí :D
 
-Me gusta programar y trastear para evadirme de todo, sobretodo me gusta trastear con Discord y Minecraft.
+I love coding and doing random pages with Next.JS, some Discord bots and Minecraft servers.
 
-Proyectos:
+Projects:
 ```py
-Kimu (Js)         10 %[━―――――]
-Kaskade (MC)      0%  [――――――]
-Kimu ENV          0%  [――――――]
+Kimu-Shop         30 %[━━━―――]
+Kimuverlay        10% [━―――――]
+Kimu ENV          10% [━―――――]
 ```
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1031884020629381251/1032179021192106054/barraGit.png">
