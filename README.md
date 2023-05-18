@@ -6,9 +6,9 @@ I love coding and doing random pages with Next.JS, some Discord bots and Minecra
 
 Projects:
 ```py
-Kimu-Shop         30 %[━━━―――]
+Kimu-Shop         50% [━━━―――]
 Kimuverlay        10% [━―――――]
-Kimu ENV          10% [━―――――]
+Hypervisor        50% [━━━―――]
 ```
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1031884020629381251/1032179021192106054/barraGit.png">
@@ -16,8 +16,8 @@ Kimu ENV          10% [━―――――]
 
 <table align="center">
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KomradeFMX&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=KomradeFMX&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notKimu&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=notKimu&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
   </tr>
 </table>
 
