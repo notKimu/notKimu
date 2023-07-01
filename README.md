@@ -11,7 +11,7 @@ Kimuverlay        10% [━―――――]
 Hypervisor        50% [━━━―――]
 ```
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1031884020629381251/1032179021192106054/barraGit.png">
+  <img src="https://cdn.discordapp.com/attachments/1032544028115349564/1124821213244555326/GithubBarWLine.png">
 </p>
 
 <table align="center">
