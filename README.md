@@ -2,13 +2,13 @@
 
 illo que puedes poner efectos aquí :D
 
-I love coding and doing random pages with Next.JS, some Discord bots and Minecraft servers.
+I love coding and doing random pages with Astro and Svelte, some Discord bots and Minecraft servers.
 
 Projects:
 ```py
-Kimu-Shop         50% [━━━―――]
-Kimuverlay        10% [━―――――]
-Hypervisor        50% [━━━―――]
+Kimsu             90% [━━━━━―]
+Kiwy              50% [━━━―――]
+Charcoal           0% [――――――]
 ```
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1032544028115349564/1124821213244555326/GithubBarWLine.png">
