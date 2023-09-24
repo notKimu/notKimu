@@ -5,7 +5,7 @@ Smol and dumb software developer that likes messing around with web applications
 
 ```py
 LimeWire!         40% [━━━―――]
-Ringe              0% [――――――]
+Chronos            0% [――――――]
 Charcoal           0% [――――――]
 ```
 <p align="center">
