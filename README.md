@@ -17,7 +17,7 @@ most_used = "TypeScript"
 
 [os]
 kernel = "linux"
-flavor = "Fedora"
+flavor = "Artix"
 ```
 
 ## Skills
